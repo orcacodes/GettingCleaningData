@@ -10,14 +10,14 @@ Output:  "project-tidy-data-wide.txt" text file.
 ### First, read the data.
 
 Read in the following:
-train/X_train.txt train data
-train/y_train.txt train data's activity labels
-train/subject_train.txt train data's subject labels
-test/X_test.txt test data
-test/y_test.txt test data's activity labels
-test/subject_test.txt test data's subject labels
-features.txt column headings for train and test datasets
-activity_labels.txt labels for activity codes
+* train/X_train.txt train data
+* train/y_train.txt train data's activity labels
+* train/subject_train.txt train data's subject labels
+* test/X_test.txt test data
+* test/y_test.txt test data's activity labels
+* test/subject_test.txt test data's subject labels
+* features.txt column headings for train and test datasets
+* activity_labels.txt labels for activity codes
 
 ### Next, combine all the data sources.
 
