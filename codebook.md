@@ -37,11 +37,23 @@ Standard deviation of the body acceleration in the Y-axis time domain signal, ca
 Standard deviation of the body acceleration in the Z-axis time domain signal, captured from the accelerometer at a constant rate of 50 Hz.
 
 ### Time of Gravity Acceleration in X axis - mean
+Mean of the gravity acceleration in the X-axis time domain signal, captured from the accelerometer at a constant rate of 50 Hz.
+
 ### Time of Gravity Acceleration in Y axis - mean
+Mean of the gravity acceleration in the Y-axis time domain signal, captured from the accelerometer at a constant rate of 50 Hz.
+
 ### Time of Gravity Acceleration in Z axis - mean
+Mean of the gravity acceleration in the Z-axis time domain signal, captured from the accelerometer at a constant rate of 50 Hz.
+
 ### Time of Gravity Acceleration in X axis - std
+Standard deviation of the gravity acceleration in the X-axis time domain signal, captured from the accelerometer at a constant rate of 50 Hz.
+
 ### Time of Gravity Acceleration in Y axis - std
+Standard deviation of the gravity acceleration in the Y-axis time domain signal, captured from the accelerometer at a constant rate of 50 Hz.
+
 ### Time of Gravity Acceleration in Z axis - std
+Standard deviation of the gravity acceleration in the Z-axis time domain signal, captured from the accelerometer at a constant rate of 50 Hz.
+
 ### Time of Body Acceleration Jerk in X axis - mean
 ### Time of Body Acceleration Jerk in Y axis - mean
 ### Time of Body Acceleration Jerk in Z axis - mean
