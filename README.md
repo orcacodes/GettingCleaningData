@@ -7,7 +7,7 @@ Input:  Data from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognit
 
 Output:  "project-tidy-data-wide.txt" text file.
 
-Read the output:  Read the text file back using the following code:  
+Read back the output:  Read the text file back using the following code:  
 data <- read.table("project-tidy-data-wide.txt", header = TRUE)   
 View(data)
 
